@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   If you have any questions, you can contact me by adding WeChat: SW_cflweixin
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=fanleung&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=fanleung&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Page visitor counter
 ![visitor counter](https://profile-counter.glitch.me/fanleung/count.svg)
